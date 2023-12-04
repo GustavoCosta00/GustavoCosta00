@@ -2,5 +2,5 @@
 
 - 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS)
 - 📌Conhecimentos em JAVASCRIPT / HTML5 / CSS3 / PYTHON / JAVA
-- 🌱 Aprofundando meus estudos nas no Desenvolvimento WEB
+- 🌱 Aprofundando meus conhecimentos no Desenvolvimento WEB
 - 📧 gustavocosta.franco.almeida@gmail.com 
