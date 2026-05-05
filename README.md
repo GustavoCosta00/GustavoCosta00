@@ -5,6 +5,7 @@
 Desenvolvedor mobile focado em tecnologia Multi-Plataformas (Dart/Flutter)
 
 ### 🤖 Linguagens e Tecnologias
+<br/>
 <img 
     align="left" 
     alt="Dart"
@@ -48,22 +49,4 @@ Desenvolvedor mobile focado em tecnologia Multi-Plataformas (Dart/Flutter)
 />
 <br/>
 <br/>
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoCosta00&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCosta00&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
