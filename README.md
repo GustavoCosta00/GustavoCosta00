@@ -1,11 +1,10 @@
-# 👩🏻‍💻 Gustavo Cotsa
+# Gustavo Cotsa
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Mobile`**
 
-Desenvolvedor mobile focado em tecnologia Multi-Plataformas (Dart/Flutter)
-
+Desenvolvedor Mobile focado em tecnologia Multiplataforma (Dart/Flutter) e ecossistema Web (TypeScript/React).
+</br>
 ### 🤖 Linguagens e Tecnologias
-<br/>
 <img 
     align="left" 
     alt="Dart"
