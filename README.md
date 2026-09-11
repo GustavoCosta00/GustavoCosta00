@@ -1,4 +1,4 @@
-# Gustavo Cotsa
+# Gustavo Costa
 
 **`Desenvolvedor Mobile`**
 
